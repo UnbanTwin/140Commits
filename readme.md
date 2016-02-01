@@ -4,7 +4,8 @@
 
 ##Requirements
 
-TwitterApi :    pip3 install TwitterAPI
+TwitterApi
+    pip3 install TwitterAPI
 
 
 #Running
