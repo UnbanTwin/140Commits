@@ -1,7 +1,6 @@
 import os
 import random
 from TwitterAPI import TwitterAPI
-print(os.environ['CK'])
 a = os.environ['CK']
 b = os.environ['CSK']
 c = os.environ['AK']
