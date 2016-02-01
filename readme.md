@@ -2,7 +2,7 @@
 ##because us developers are lazy
 ###Generates a random commit message from twitter
 
-##Requirements
+##Requirements:
 
 ####TwitterApi:
     pip3 install TwitterAPI
