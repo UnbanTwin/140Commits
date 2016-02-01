@@ -1,6 +1,6 @@
-#140Commits
-##because us developers are lazy
-###Generates a random commit message from twitter
+#140Commits.
+##because us developers are lazy.
+###Generates a random commit message from twitter.
 
 ##Requirements:
 
@@ -8,5 +8,5 @@
     pip3 install TwitterAPI
 
 
-#Running
+#Running:
     CK=<Consumer_Key> CSK=<Consumer_Secret_Key> AK=<Access_Key>  ASK=<Access_Secret_Key> python3 140C.py
